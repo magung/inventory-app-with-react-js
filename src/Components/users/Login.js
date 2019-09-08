@@ -44,7 +44,6 @@ class Login extends Component {
   render() {
       return (
           <React.Fragment>
-          <div>
             <div className='container background' style={{height : '800px'}}>
               <div className='row' style={{margin : '50px'}}>
                 <div className='col-6'></div>
@@ -82,7 +81,6 @@ class Login extends Component {
                 </div>
               </div>
             </div>
-          </div>
           </React.Fragment>
       );
   }
