@@ -5,10 +5,32 @@
   </a>
 </p>
 
+Inventory app is an application about managing a products
+
 ## Requirements
 1. Node/NPM
 2. React Js
 3. <a href="https://github.com/magung/inventory-app-js-backend">inventory-app-js-backend</a> for the API / backend side.
+
+## Installation
+### Clone
+Frontend
+```
+$ git clone https://github.com/magung/inventory-app-with-react-js.git
+```
+Backend
+```
+$ git clone https://github.com/magung/inventory-app-js-backend.git
+```
+### Install dependencies
+
+To install dependencies enter project folder and run following command:
+
+`npm install`
+
+### Running the app
+
+`npm start` / `react-scripts-start`
 
 
 ## Demo Project
@@ -33,25 +55,7 @@
 ### Edit Product
 ![editproduct](https://user-images.githubusercontent.com/50833200/64964578-90bd6900-d8c5-11e9-920d-91ede74a8e01.png)
 
-## Installation
-### Clone
-Frontend
-```
-$ git clone https://github.com/magung/inventory-app-with-react-js.git
-```
-Backend
-```
-$ git clone https://github.com/magung/inventory-app-js-backend.git
-```
-### Install dependencies
 
-To install dependencies enter project folder and run following command:
-
-`npm install`
-
-### Running the app
-
-`npm start` / `react-scripts-start`
 
 
 
