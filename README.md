@@ -7,6 +7,11 @@
 
 Inventory app is an application about managing a products
 
+## Table of contens
+* [Requirements](#requirements)
+* [Installation](#installation)
+* [Demo Project](#demo-project)
+
 ## Requirements
 1. Node/NPM
 2. React Js
