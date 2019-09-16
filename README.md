@@ -5,7 +5,7 @@
   </a>
 </p>
 
-Inventory app is an application about managing a products
+Inventory app is an application about managing a products, Here we can create, edit, delete and search a product
 
 ## Table of contens
 * [Requirements](#requirements)
