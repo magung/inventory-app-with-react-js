@@ -1,7 +1,7 @@
 <h1 style='text-align: center'>Inventory App with React JS</h1>
 <p align='center'>
   <a href='https://facebook.github.io/react-native/'>
-  <img width="500" src='https://reactjs.org/logo-og.png' />
+  <img width="500" src='https://nareshit.com/wp-content/uploads/2019/01/ReactJS-online-training-nareshit.jpg' />
   </a>
 </p>
 
