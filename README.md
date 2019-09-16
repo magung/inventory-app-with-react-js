@@ -19,7 +19,7 @@
 ![login](https://user-images.githubusercontent.com/50833200/64964090-98304280-d8c4-11e9-8885-b897e21eb772.png)
 
 ### Home
-![homepage](https://user-images.githubusercontent.com/50833200/64964310-ffe68d80-d8c4-11e9-87eb-baa419a6188f.png)
+![homepage](https://user-images.githubusercontent.com/50833200/64965521-5c4aac80-d8c7-11e9-9732-9f156ffd7462.png)
 
 ### Search Product
 ![searchproduct](https://user-images.githubusercontent.com/50833200/64964355-1ee51f80-d8c5-11e9-8aba-12e2ac29e240.png)
